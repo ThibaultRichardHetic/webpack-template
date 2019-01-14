@@ -1,0 +1,1 @@
+echo "# Webpack-template"
